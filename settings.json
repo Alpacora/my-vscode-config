@@ -1,0 +1,43 @@
+{
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Omni",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.accessibilitySupport": "off",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.fontSize": 14,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "cSpell.language": "en,pt_BR",
+  "cSpell.userWords": [
+    "Authed",
+    "Backoffice",
+    "Benning",
+    "chromedriver",
+    "datepicker",
+    "epione",
+    "EPIONE",
+    "formik",
+    "Formik",
+    "Gowdock",
+    "neighbourhood",
+    "Pressable",
+    "Swipeable",
+    "typedi"
+  ],
+  "svg.preview.mode": "svg",
+  "git.allowForcePush": true,
+  "json.schemas": [],
+  "tabnine.experimentalAutoImports": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "githubPullRequests.fileListLayout": "tree",
+  "githubPullRequests.pullBranch": "never",
+  "turboConsoleLog.delimiterInsideMessage": ":: ->",
+  "editor.minimap.enabled": false,
+}
